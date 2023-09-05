@@ -13,7 +13,7 @@
 <img align= "left" alt="VS code" width="40px" src="./assets/VS_code.svg" style="padding-right:10px;" />
 <img align= "left" alt="HTML5" width="40px" src="./assets/HTML5.svg" style="padding-right:10px;" />
 <img align= "left" alt="CSS3" width="40px" src="./assets/CSS3.svg" style="padding-right:10px;" />
-<img align= "left" alt="Git" width="40px" src="./assets/Git.svg" style="padding-right:10px;" />
+<!-- <img align= "left" alt="Git" width="40px" src="./assets/Git.svg" style="padding-right:10px;" /> -->
 <img align= "left" alt="GitHub" width="40px" src="./assets/Github.svg" style="padding-right:10px;" />
 <img align= "left" alt="C" width="40px" src="./assets/C.svg" style="padding-right:10px;"/>
 <img align= "left" alt="Cpp" width="40px" src="./assets/cplusplus.svg" style="padding-right:10px;"/>
@@ -21,13 +21,13 @@
 <img alt="Python" width="40px" src="./assets/Python.svg" style="padding-right:10px;"/>
 
 ## I'm Currently Learning
-
 <img align= "left" alt="JavaScript" width="40px" src="./assets/js.svg" style="padding-right:4px;"/>
+
 <img alt="React" width="40px" src="./assets/react.svg" style="padding-right:10px;"/>
 
 ## Contact Me
 
-<p><a href="mailto:anujpandey111201.com"><img src="example_small.svg" alt="Gmail" width="40px" align="left" padding-right="5px"></a></p>
+<p><a href="mailto:anujpandey111201.com"><img src="./assets/Gmail_Logo.svg" alt="Gmail" width="40px" align="left" padding-right="5px"></a></p>
 <p><a href="https://linkedin.com/in/anuzpandey1"><img src="./assets/Linkedin.svg" alt="LinkedIn" width="40px" padding-right="10px"></a></p>
 
 ## Stats
