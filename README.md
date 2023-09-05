@@ -1,7 +1,6 @@
 <!-- <img align= center  width = 830  height = 450px src = "https://gifdb.com/gif/animated-chock-coding-c78f6elj32sfoi8q.html?embed=true"> -->
-<img alt="Coder GIF" height=550px  width=830 src=""https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=550px  width=830 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <hr>
-<img alt="Coder GIF" height=250 width=350 src=" />
 
 # Hi there, I am **Anuj ...👋**
 
