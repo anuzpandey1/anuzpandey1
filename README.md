@@ -2,9 +2,9 @@
 
 <hr>
 
-# Hi there, I am **Atul ...👋**
+# Hi there, I am **Anuj ...👋**
 
-- 🏠 I'm from Uttar Pradesh, India
+- 🏠 I'm from Gurugram, India
 - 🏫 I'm styding Computer Science at Gurugram University
 - 👯 I'm looking to collaborate on Open Source Projects
 
@@ -27,11 +27,11 @@
 
 ## Contact Me
 
-<p><a href="mailto:atulsingh6839@outlook.com"><img src="./assets/Outlook.svg" alt="Outlook" width="40px" align="left" padding-right="5px"></a></p>
-<p><a href="https://linkedin.com/in/atulsingh14"><img src="./assets/Linkedin.svg" alt="LinkedIn" width="40px" padding-right="10px"></a></p>
+<p><a href="mailto:anujpandey111201.com"><img src="example_small.svg" alt="Gmail" width="40px" align="left" padding-right="5px"></a></p>
+<p><a href="https://linkedin.com/in/anuzpandey1"><img src="./assets/Linkedin.svg" alt="LinkedIn" width="40px" padding-right="10px"></a></p>
 
 ## Stats
 
-<img align= "left" width = 400 height = 200 src = "https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=tokyoknight&border_radius=10">
+<img align= "left" width = 400 height = 200 src = "https://github-readme-stats.vercel.app/api?username=anuzpandey1&show_icons=true&theme=tokyoknight&border_radius=10">
 
-<img align="right" width = 400 height = 200 src = "https://streak-stats.demolab.com?user=atulsingh14&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500">
+<img align="right" width = 400 height = 200 src = "https://streak-stats.demolab.com?user=anuzpandey1&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500">
